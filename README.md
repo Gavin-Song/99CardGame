@@ -7,7 +7,7 @@ The game is console based, and the AI is not super smart, but it should offer a 
 
 ## Getting started
 
-Simply git clone this repo or download to desktop, then run __init__.py with python 3.6 (Python 2 will not work!)
+Simply git clone this repo or download to desktop, then run main.py with python 3.6 (Python 2 will not work!)
 
 This program doesn't use any external libs, so you won't need to install anything
 
